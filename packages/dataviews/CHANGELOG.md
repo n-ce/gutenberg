@@ -9,8 +9,8 @@
 
 ### Enhancements
 
-- DataViews: Field's description can accept ReactElements. [#76829](https://github.com/WordPress/gutenberg/pull/76829)
-- DataForm: Use `CollapsibleCard.HeaderDescription` for card layout header descriptions instead of manual `aria-describedby`.
+- DataViews: Field's description can accept ReactElements [#76829](https://github.com/WordPress/gutenberg/pull/76829).
+- DataForm: Use `CollapsibleCard.HeaderDescription` for card layout header descriptions instead of manual `aria-describedby` [#76867](https://github.com/WordPress/gutenberg/pull/76867).
 
 ## 13.1.0 (2026-03-18)
 
