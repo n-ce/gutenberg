@@ -1,0 +1,1 @@
+import{c as o,a as r}from"./component-N58l8Yd5.js";import{u as s}from"./hook-eEPzRNid.js";import{a}from"./iframe-BgGUft_I.js";var t=o((function UnconnectedText(o,t){const n=s(o);return a.jsx(r,{as:"span",...n,ref:t})}),"Text");export{t as c};
