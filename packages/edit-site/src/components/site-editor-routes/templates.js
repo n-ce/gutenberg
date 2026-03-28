@@ -66,7 +66,7 @@ export const templatesRoute = {
 		},
 		mobile( { siteData } ) {
 			if ( ! isThemeDataLoaded( siteData ) ) {
-				return null;
+				return <></>;
 			}
 			if ( ! siteData.currentTheme.is_block_theme ) {
 				return <SidebarNavigationScreenUnsupported />;
